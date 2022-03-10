@@ -14,7 +14,7 @@ const controls = new OrbitControls(camera, renderer.domElement)
 
 const geometry = new THREE.BoxGeometry()
 const material = new THREE.MeshBasicMaterial({
-    color: 0x00ff00,
+    color: 0x00ffcc,
     wireframe: true,
 })
 
